@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "PersonalInfo";
+}
+
+<style>
+
+    .links a {
+        float: left;
+        color: #1d110e;
+        text-align: center;
+        padding: 8px 10px;
+        text-decoration: none;
+        font-size: 15px;
+    }
+    .links a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    .links a.active {
+        background-color: #04AA6D;
+        color: white;
+    }
+    .firstLetter::first-letter {
+        font-size: 30px;
+        font-weight: bold;
+        line-height: .70;
+        color: #6b7cbb;
+        
+    }
+    #p3 {
+        text-align: justify;
+    }
+
+
+</style>
+
+<body>
+    <fieldset>
+        <div id="myName" style="font-family: Georgia;">
+            <h1 style="margin-bottom: 5px;  font-size: 40px;">Foysal Ahamed Nirob</h1>
+            <i style="margin-bottom: 5px;  font-size: 15px;">email: neeerob.ahmed@gmail.com</i>
+            <p>Phone: 01826061576</p>
+            <hr />
+            <dev class="links">
+                <p style="text-align: center; ">
+                    <a class="active" href="~/myCV/PersonalInfo">Personal Information</a>
+                    <a href="~/myCV/Education">Education</a>
+                    <a href="~/myCV/Project">Projects</a>
+                    <a href="~/myCV/Contact">Contacts</a>
+                </p>
+            </dev>
+            <br /><br><hr />
+            <dev class="aboutMe" style="text-align: left;">
+                <p style="font-size: 20px;">About me</p><hr />
+                <p class="firstLetter" id="p3">
+                    I'm Foysal Ahamed Nirob. I am a talented, ambitious and hardworking
+                    individual, with broad skills and experience in web and app design,
+                    social media and leading projects. Learning and sharing knowledge are two
+                    of the beliefs that I hold most. I am a programmer and tech enthusiast.
+                    I use a creative approach to solving problems. My dedication to creating
+                    comprehensive programming plans can also help your company improve its
+                    data integrity and increase customer retention. Even though I take my
+                    work seriously, I do have a good sense of humour.
+                </p>
+            </dev><br />
+            <dev class="personalInfo" style="text-align: left;">
+                <p style="font-size: 20px; text-align: left; ">Personal Information</p><hr />
+                <p style=" text-align: left;" >
+                    <ul type="disc">
+                        <li><b>Name:</b> Foysal Ahamed Nirob</li>
+                        <li><b>Father's Name:</b> Alauddin Sharkar</li>
+                        <li><b>Mother's Name:</b> Nasrin Akter</li>
+                        <li><b>Nationality:</b> Bangladeshi</li>
+                        <li><b>Date of Birth:</b> 20 November 2000</li>
+                        <li><b>Religion:</b> Islam</li>
+                        <li><b>Marital Status:</b> Unmarried</li>
+                    </ul>
+                </p>
+            </dev>
+
+
+
+
+
+        </div>
+    </fieldset>
+</body>
+
