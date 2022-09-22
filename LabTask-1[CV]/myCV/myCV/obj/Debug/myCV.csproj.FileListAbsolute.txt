@@ -156,3 +156,33 @@ C:\Users\Ne\Desktop\Advance Programming with .NET\LabTask-1[CV]\myCV\myCV\obj\De
 C:\Users\Ne\Desktop\Advance Programming with .NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.csproj.CopyComplete
 C:\Users\Ne\Desktop\Advance Programming with .NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.dll
 C:\Users\Ne\Desktop\Advance Programming with .NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.pdb
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\myCV.dll.config
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\myCV.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\myCV.pdb
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Antlr3.Runtime.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Newtonsoft.Json.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Helpers.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Mvc.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Optimization.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Razor.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\WebGrease.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Helpers.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Mvc.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Optimization.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.Razor.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Newtonsoft.Json.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Antlr3.Runtime.pdb
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.csproj.CopyComplete
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.dll
+C:\Users\Ne\Desktop\git\ADVANCED-PROGRAMMING-WITH-.NET\LabTask-1[CV]\myCV\myCV\obj\Debug\myCV.pdb
